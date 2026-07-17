@@ -42,7 +42,11 @@ Granular view/comment/edit permissions (binary access proves the read gate); con
 
 <br/>
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivanshinigam/permission-aware-rag-gateway)
+<div align="center">
+
+[![View Repo](https://img.shields.io/badge/VIEW_REPO_ON_GITHUB-C97C5D?style=for-the-badge&logo=github&logoColor=white&labelColor=C97C5D)](https://github.com/shivanshinigam/permission-aware-rag-gateway)
+
+</div>
 
 </div>
 </td>
@@ -82,7 +86,11 @@ Broader language support, and a stronger sandbox isolation boundary for genuinel
 
 <br/>
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivanshinigam/verifying-code-review-agent)
+<div align="center">
+
+[![View Repo](https://img.shields.io/badge/VIEW_REPO_ON_GITHUB-C9A876?style=for-the-badge&logo=github&logoColor=white&labelColor=C9A876)](https://github.com/shivanshinigam/verifying-code-review-agent)
+
+</div>
 
 </div>
 </td>
