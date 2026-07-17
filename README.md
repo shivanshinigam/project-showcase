@@ -45,7 +45,7 @@ Swap the manual YAML identity mapping for real SSO/directory integration; move t
 
 **What was cut**
 <br/>
-Granular view/comment/edit permissions (binary access proves the read gate); connector breadth (two — one granular, one simple — proves the abstraction generalizes better than ten would).
+Granular view/comment/edit permissions (binary access proves the read gate); connector breadth (two — one granular, one simple — proves the abstraction generalizes better than ten would.
 
 
 
