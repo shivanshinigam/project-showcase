@@ -12,12 +12,19 @@
 <tr>
 <td width="50%" valign="top">
 <div style="background:#161b22;border:1px solid #30363d;border-top:4px solid #C97C5D;border-radius:10px;padding:24px;height:100%;">
+<br/>
+
+<div align="center">
+
+[![View Repo](https://img.shields.io/badge/VIEW_REPO_ON_GITHUB-C97C5D?style=for-the-badge&logo=github&logoColor=white&labelColor=C97C5D)](https://github.com/shivanshinigam/permission-aware-rag-gateway)
+
+</div>
 
 ### 🔐 Permission-Aware RAG Gateway
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/RAG-C97C5D?style=flat-square" />
-<img src="https://img.shields.io/badge/LLM-C97C5D?style=flat-square" />
+<img src="https://img.shields.io/badge/LLM-A78BFA?style=flat-square" />
 <img src="https://img.shields.io/badge/Access%20Control-C97C5D?style=flat-square" />
 
 **What it is**
@@ -40,23 +47,24 @@ Swap the manual YAML identity mapping for real SSO/directory integration; move t
 <br/>
 Granular view/comment/edit permissions (binary access proves the read gate); connector breadth (two — one granular, one simple — proves the abstraction generalizes better than ten would).
 
-<br/>
 
-<div align="center">
-
-[![View Repo](https://img.shields.io/badge/VIEW_REPO_ON_GITHUB-C97C5D?style=for-the-badge&logo=github&logoColor=white&labelColor=C97C5D)](https://github.com/shivanshinigam/permission-aware-rag-gateway)
-
-</div>
 
 </div>
 </td>
 <td width="50%" valign="top">
 <div style="background:#161b22;border:1px solid #30363d;border-top:4px solid #C9A876;border-radius:10px;padding:24px;height:100%;">
 
+<br/>
+<div align="center">
+
+[![View Repo](https://img.shields.io/badge/VIEW_REPO_ON_GITHUB-C97C5D?style=for-the-badge&logo=github&logoColor=white&labelColor=C97C5D)](https://github.com/shivanshinigam/verifying-code-review-agent)
+
+</div>
+
 ### 🕵️ Verifying Code Review Agent
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/LLM-C9A876?style=flat-square" />
+<img src="https://img.shields.io/badge/LLM-A78BFA?style=flat-square" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Agentic%20AI-C9A876?style=flat-square" />
 
@@ -86,11 +94,7 @@ Broader language support, and a stronger sandbox isolation boundary for genuinel
 
 <br/>
 
-<div align="center">
 
-[![View Repo](https://img.shields.io/badge/VIEW_REPO_ON_GITHUB-C9A876?style=for-the-badge&logo=github&logoColor=white&labelColor=C9A876)](https://github.com/shivanshinigam/verifying-code-review-agent)
-
-</div>
 
 </div>
 </td>
